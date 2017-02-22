@@ -1,7 +1,7 @@
 免疫数据库
 ------
 ###  项目描述 <br />
->* url : [PIRD](http://172.17.10.19/pird/) <br />
+>* 项目地址 : [PIRD](http://172.17.10.19/pird/) <br />
 >* Pan Immune Repertoire Database (PIRD) collected raw and analyzed sequences of immunoglobulins (IG)and T cell receptors (TCR)
 of human and other vertebrate species with different phenotype. You can check the detailed information of each sample in the 
 database, choose samples to analyze according your need, and upload data to analyze. Your analysis results will be auto-saved, 
