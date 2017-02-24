@@ -13,3 +13,4 @@ so you can return to check them at any time.
 >* 2017-02-10 <br />完成后台 API 的编写 @guo
 >* 2017-02-17 <br />权限控制方面：建表并处理数据 @du，权限控制的数据导入，并测试 API @guo
 >* 2017-02-21 <br />导入 Breast 项目的完整数据 @guo
+>* 2017-02-24 <br />完成新增 cdr3-length 和知识库引物两个接口的编写 @guo
