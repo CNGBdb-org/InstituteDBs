@@ -8,7 +8,7 @@ database, choose samples to analyze according your need, and upload data to anal
 so you can return to check them at any time.
 
 ### 项目进度
->* 2017-03-31  （@Adam）
+>* 2017-03-31（@Adam） 
 1.完成一期前端重构开发。
 2.完成前端UI框架开发并形成文档
 >* 2017-03-13  
