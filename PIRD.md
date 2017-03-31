@@ -8,10 +8,10 @@ database, choose samples to analyze according your need, and upload data to anal
 so you can return to check them at any time.
 
 ### 项目进度
->* 2017-03-31（@Adam） 
+>* 2017-03-31（@adam） 
 1.完成一期前端重构开发。
 2.完成前端UI框架开发并形成文档
->* 2017-03-13  
+>* 2017-03-13 (@adam)  
 完成整个pird网站的js和css整合，对链接和html代码进行了全站检查@adam
 >* 2017-03-10  
 完成国际化翻译部分 @guo
